@@ -1,0 +1,2 @@
+---docle click a click index.html.
+--El resto de carpetas son los archivos css y imagenes que conforman la pagina
